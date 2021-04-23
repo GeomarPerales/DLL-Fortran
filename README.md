@@ -1,4 +1,4 @@
-# Subroutines fortran for hydroelectric exploitation 
+# Fortran subroutines for hydroelectric exploitation 
 
 ## Overview
 
